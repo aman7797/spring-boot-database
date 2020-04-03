@@ -2,7 +2,7 @@
 
 ## Install and Setup MySQL
 
-1. Download the MySQL zip
+1. Download the [MySQL zip](https://dev.mysql.com/downloads/mysql/)
 2. Unzip the downloaded file and open the command line at the unziped location, go to `bin` directory
 3. To initialize the MySQL run the below mentioned command, it will create the data directory in the same folder
 
